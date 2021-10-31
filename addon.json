@@ -1,14 +1,25 @@
 {
     "legacy_addon_id": "",
     "title": "[tl] Payment Perfect Money",
-    "description": "",
+    "description": "Support perfectmoney.com as a payment gateway in XenForo",
     "version_id": 1000000,
     "version_string": "1.0.0",
-    "dev": "",
-    "dev_url": "",
-    "faq_url": "",
-    "support_url": "",
-    "extra_urls": [],
-    "require": [],
+    "dev": "Truonglv",
+    "dev_url": "https://nobita.me",
+    "faq_url": "https://github.com/luutruong/XF2_PaymentPerfectMoney/issues",
+    "support_url": "https://github.com/luutruong/XF2_PaymentPerfectMoney/issues",
+    "extra_urls": {
+        "Github Repo": "https://github.com/luutruong/XF2_PaymentPerfectMoney"
+    },
+    "require": {
+        "php": [
+            "7.2.0",
+            "PHP 7.2.0 or higher"
+        ],
+        "XF": [
+            2020000,
+            "XenForo 2.2.0 or higher"
+        ]
+    },
     "icon": ""
 }
