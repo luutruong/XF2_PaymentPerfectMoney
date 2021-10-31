@@ -1,0 +1,12 @@
+{
+    "admin/payment_profile_tpm_perfect_money.html": {
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "f4795860681d04b3fdee0f1b1a61dcc6"
+    },
+    "public/payment_initiate_perfect_money.html": {
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "f3567d33da4c6e95dcdabc3dd37294d6"
+    }
+}

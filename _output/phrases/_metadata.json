@@ -1,0 +1,50 @@
+{
+    "tpm_perfect_money_alternate_passphrase.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "5223bfe8037ee42a9ce3211ee8cdfb09"
+    },
+    "tpm_perfect_money_error_invalid_alternate_passphrase.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "f0aad52f0a7d39735e25d6a732a07924"
+    },
+    "tpm_perfect_money_error_invalid_payee_account.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "a5a43742a32c5066429b141ded92f2a1"
+    },
+    "tpm_perfect_money_error_invalid_payee_name.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "af9ed8787768d5ca5f1184b670545e2b"
+    },
+    "tpm_perfect_money_initiate_payment_form_confirm.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "0f30daa4876bd111a3524f470bb45b7c"
+    },
+    "tpm_perfect_money_payee_account.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "04dcb418f9e21cea8ae3a07d1a6b634e"
+    },
+    "tpm_perfect_money_payee_name.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "af8113ee040d13461640253f80395572"
+    },
+    "tpm_perfect_money_payment_title.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "945b454f94684d02e169c170caecdf60"
+    }
+}

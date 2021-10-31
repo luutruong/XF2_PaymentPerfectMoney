@@ -1,0 +1,16 @@
+<xf:title>{$purchase.title}</xf:title>
+
+<xf:form action="{$formAction}" method="POST" class="block">
+    <xf:foreach loop="$formParams" key="$key" value="$value">
+        <xf:hiddenval name="{$key}">{$value}</xf:hiddenval>
+    </xf:foreach>
+    <div class="block-container">
+        <div class="block-body">
+            <xf:inforow rowtype="confirm">
+                {{ phrase('tpm_perfect_money_initiate_payment_form_confirm') }}
+            </xf:inforow>
+        </div>
+
+        <xf:submitrow rowtype="simple" submit="{{ phrase('continue') }}" />
+    </div>
+</xf:form>
