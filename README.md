@@ -1,5 +1,5 @@
 # XF2_PaymentPerfectMoney
-Support [perfectmoney.com](https://perfectmoney.com) as a payment gateway in XenForo
+Support [perfectmoney.com](https://perfectmoney.com) as a payment gateway in [XenForo](https://xenforo.com/community)
 
 ## Development
 
